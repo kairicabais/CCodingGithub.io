@@ -1,6 +1,6 @@
-//p5.js= https://editor.p5js.org/kairicabais/sketches/yFFVWs1uT
+////rotating text typography on p5.js= https://editor.p5js.org/kairicabais/sketches/yFFVWs1uT
 
-//rotating text typography. string variable of text sentence "WOAHH"
+//string variable of text sentence "WOAHH"
 let sentence = "WOAHH";
 let texts = []; let num = 8; //no. of type instances
 let rInc = 30; //increment of r(radius) size for each instance
