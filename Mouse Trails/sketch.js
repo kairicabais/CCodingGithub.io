@@ -1,5 +1,7 @@
+//interactive drops art with mouse trails on p5.js= https://editor.p5js.org/kairicabais/sketches/z7jVk33X0
+
 //This interactive artwork creates dots ranging of different sizes depending on speed of mouse movement. Color used is just opacity.
-// p5.js link: https://editor.p5js.org/kairicabais/full/z7jVk33X0
+
 
 //Variables
 let drops = []; //drops need an empty container
